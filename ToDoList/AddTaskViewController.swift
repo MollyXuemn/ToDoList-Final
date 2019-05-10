@@ -52,12 +52,10 @@ class AddTaskViewController: UIViewController {
     
     var activeTextView: UITextView?
     
-    let message = "Hello MOllY"
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(message)
 
         // Do any additional setup after loading the view.
         
